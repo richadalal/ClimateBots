@@ -1,5 +1,5 @@
 # climatebots
-Collaborated on a team to create this project for the SET Hacks Hackathon. 
+Collaborated with others in a team to create this project for the SET Hacks Hackathon. 
 
 A climate change activism and social-networking platform that connects like-minded people by promoting positive change.
 
