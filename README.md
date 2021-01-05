@@ -19,4 +19,3 @@ Now this project should be running on your localhost machine!
 
 Thank you for viewing this project, Let's strive to save our home!
 
-- Climate Bots
