@@ -1,4 +1,6 @@
 # climatebots
+Collaborated on a team to create this project for the SET Hacks Hackathon. 
+
 A climate change activism and social-networking platform that connects like-minded people by promoting positive change.
 
 To use this project you must clone it to your computer then in command prompt cd to where this project file is stored. Below is how to access this on your personal machine:
